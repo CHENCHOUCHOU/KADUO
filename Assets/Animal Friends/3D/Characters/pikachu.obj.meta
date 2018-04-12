@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a1d918ebf4f9bdf438fdfd2a0b9619b2
+timeCreated: 1523450229
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DrawCall_25
+    100002: DrawCall_262
+    100004: DrawCall_342
+    100006: DrawCall_352
+    100008: DrawCall_362
+    100010: DrawCall_382
+    100012: DrawCall_442
+    100014: //RootNode
+    400000: DrawCall_25
+    400002: DrawCall_262
+    400004: DrawCall_342
+    400006: DrawCall_352
+    400008: DrawCall_362
+    400010: DrawCall_382
+    400012: DrawCall_442
+    400014: //RootNode
+    2300000: DrawCall_25
+    2300002: DrawCall_262
+    2300004: DrawCall_342
+    2300006: DrawCall_352
+    2300008: DrawCall_362
+    2300010: DrawCall_382
+    2300012: DrawCall_442
+    3300000: DrawCall_25
+    3300002: DrawCall_262
+    3300004: DrawCall_342
+    3300006: DrawCall_352
+    3300008: DrawCall_362
+    3300010: DrawCall_382
+    3300012: DrawCall_442
+    4300000: DrawCall_25
+    4300002: DrawCall_262
+    4300004: DrawCall_342
+    4300006: DrawCall_352
+    4300008: DrawCall_362
+    4300010: DrawCall_382
+    4300012: DrawCall_442
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_25Mat
+    second: {fileID: 2100000, guid: 12d1991f7a985ac4a98ff89fb913a87f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_262Mat
+    second: {fileID: 2100000, guid: 97583abc7b01fdf49a624b590560c4ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_342Mat
+    second: {fileID: 2100000, guid: 2fca05c32ccf9544cba81df9db01b617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_352Mat
+    second: {fileID: 2100000, guid: ad90590becf679044a78f1c9c82fc8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_362Mat
+    second: {fileID: 2100000, guid: 04e56c57970e85942bcacda5571e41c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_382Mat
+    second: {fileID: 2100000, guid: 1924caec9dd5d8d4f86e5816294cd60d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_442Mat
+    second: {fileID: 2100000, guid: 1da222642352931498b7e41eb126a3f9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
